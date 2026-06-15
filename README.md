@@ -1,5 +1,7 @@
 # SlopCleaner Multilingual
 
+**English** · [Deutsch](README.de.md) · [Русский](README.ru.md)
+
 A skill for removing AI writing patterns ("slop") from prose in **English, German, and Russian** — built around a principle most de-slop tools don't state.
 
 ## The problem with the usual approach
